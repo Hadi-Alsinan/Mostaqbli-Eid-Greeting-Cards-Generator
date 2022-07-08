@@ -1,0 +1,561 @@
+/* screen - home */
+
+.home {
+  background-color: var(--white);
+  height: 3400px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1137px;
+}
+
+.home .image-7-xl4bh6 {
+  background-color: transparent;
+  height: 367px;
+  left: 427px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2361px;
+  width: 449px;
+}
+
+.home .image-6-xl4bh6 {
+  background-color: transparent;
+  height: 346px;
+  left: 742px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2933px;
+  width: 376px;
+}
+
+.home .main-header-xl4bh6 {
+  background-color: transparent;
+  height: 1601px;
+  left: 59px;
+  position: absolute;
+  display: flex;
+  top: 229px;
+  width: 1018px;
+  align-items: center;
+  justify-content: center;
+}
+
+.home .rectangle-8-PVqWxe {
+  background-color: transparent;
+  height: 1517px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 84px;
+  width: 1018px;
+}
+
+.home .artboard-1-2-PVqWxe {
+  background-color: transparent;
+  height: 950px;
+  left: 130px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 217px;
+  width: 760px;
+}
+
+.home .default-PVqWxe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 1517px;
+  left: 177px;
+  pointer-events: auto;
+  position: absolute;
+  top: -0px;
+  transition: all 0.2s ease;
+  width: 596px;
+}
+
+.home .default-PVqWxe:hover {
+  /* transform: scale(1.1); */
+}
+
+.home .rectangle-6-ZYKtKp {
+  background-color: #d099d1;
+  border-radius: 40px;
+  cursor: pointer;
+  height: 110px;
+  left: 340px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 1407px;
+  display: flex;
+  transition: all 0.2s ease;
+  width: 300px;
+  align-items: center;
+  justify-content: center;
+}
+
+.home .rectangle-6-ZYKtKp:hover {
+  transform: scale(1.2);
+}
+
+.home .text_label-ZYKtKp {
+  background-color: transparent;
+  color: var(--white);
+  direction: rtl;
+  font-family: var(--font-family-tajawal);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 900;
+  /* height: 58px; */
+  /* left: 266px; */
+  letter-spacing: -3.36px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  /* position: absolute; */
+  text-align: center;
+  top: 1453px;
+  z-index: 33;
+  width: auto;
+}
+
+.home .x-ZYKtKp {
+  background-color: transparent;
+  color: #754475;
+  direction: rtl;
+  font-family: var(--font-family-tajawal);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: 41px;
+  left: 201px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: -38px;
+  width: 592px;
+  z-index: 100;
+}
+
+.home .rectangle-12-xl4bh6 {
+  background-color: transparent;
+  height: 115px;
+  left: 289px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1492px;
+  width: 559px;
+}
+
+input#nameField {
+    z-index: 33;
+}
+
+.home .image-1-xl4bh6 {
+  background-color: transparent;
+  height: 659px;
+  left: -163px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1118px;
+  width: 427px;
+}
+
+.home .image-2-xl4bh6 {
+  background-color: transparent;
+  height: 722px;
+  left: 795px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -82px;
+  width: 525px;
+}
+
+.home .image-removebg-preview-5-1-xl4bh6 {
+  background-color: transparent;
+  height: 725px;
+  left: 616px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1364px;
+  width: 683px;
+}
+
+.home .most-logo-1-xl4bh6 {
+  background-color: transparent;
+  height: 93px;
+  left: 907px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 170px;
+}
+
+.home .text_input-xl4bh6 {
+  background-color: transparent;
+  border: 0;
+  color: var(--white);
+  direction: rtl;
+  font-family: var(--font-family-tajawal);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: 75px;
+  left: 349px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: center;
+  top: 1505px;
+  width: 440px;
+}
+
+canvas#viewport {
+  position: relative;
+  left: 0%;
+  /* width: 70%; */
+  z-index: 2;
+  /* height: 52%; */
+  top: -7%;
+  transform: scale(0.66);
+}
+
+input[type=radio] {
+  opacity: 0;
+  height: 0;
+  width: 0;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 0;
+}
+
+.home .text_input-xl4bh6::placeholder {
+  color: #ffffff99;
+}
+
+.home .rectangle-13-xl4bh6 {
+  background-color: var(--white);
+  border-radius: 48px;
+  box-shadow: 0px 6px 50px #74477599;
+  height: 495px;
+  left: 695px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2770px;
+  width: 300px;
+}
+
+.home .image-4-xl4bh6 {
+  background-color: transparent;
+  height: 303px;
+  left: 312px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2782px;
+  width: 300px;
+}
+
+.home .vector-xl4bh6 {
+  background-color: transparent;
+  height: 2px;
+  left: 695px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3140px;
+  width: 301px;
+}
+
+.home .rectangle-14-xl4bh6 {
+  background-color: var(--white);
+  border-radius: 48px;
+  box-shadow: 0px 4px 50px #74477599;
+  height: 495px;
+  left: 139px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2770px;
+  width: 300px;
+}
+
+.home .vector-efo9xP {
+  background-color: transparent;
+  height: 2px;
+  left: 139px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3142px;
+  width: 301px;
+}
+
+.home .artboard-4-1-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 300px;
+  left: 725px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2809px;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.home .artboard-4-1-xl4bh6:hover {
+  transform: scale(1.1);
+}
+
+.home .artboard-3-1-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 300px;
+  left: 169px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2809px;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.home .artboard-3-1-xl4bh6:hover {
+  transform: scale(1.1);
+}
+
+.home .text_label-xl4bh6 {
+  background-color: transparent;
+  color: #562957;
+  direction: rtl;
+  font-family: var(--font-family-tajawal);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 137px;
+  left: 169px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2048px;
+  width: 825px;
+}
+
+.home .image-xl4bh6 {
+  background-color: transparent;
+  height: 52px;
+  left: 742px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3203px;
+  width: 212px;
+}
+
+.home .image-efo9xP {
+  background-color: transparent;
+  height: 44px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3188px;
+  width: 218px;
+}
+
+.home .group-1-xl4bh6 {
+  background-color: transparent;
+  height: 505px;
+  left: 432px;
+  position: absolute;
+  top: 2222px;
+  width: 827px;
+}
+
+.home .rectangle-10-UlqJaJ {
+  background-color: var(--white);
+  border-radius: 48px;
+  box-shadow: 0px 4px 50px #74477599;
+  height: 495px;
+  left: 263px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 300px;
+}
+
+.home .vector-UlqJaJ {
+  background-color: transparent;
+  height: 2px;
+  left: 265px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 374px;
+  width: 301px;
+}
+
+.home .image-UlqJaJ {
+  background-color: transparent;
+  height: 45px;
+  left: 286px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 414px;
+  width: 252px;
+}
+
+.home .group-2-xl4bh6 {
+  background-color: transparent;
+  height: 505px;
+  left: -123px;
+  position: absolute;
+  top: 2222px;
+  width: 827px;
+}
+
+.home .rectangle-10-acGtbQ {
+  background-color: var(--white);
+  border-radius: 48px;
+  box-shadow: 0px 4px 50px #74477599;
+  height: 495px;
+  left: 263px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 300px;
+}
+
+.home .vector-acGtbQ {
+  background-color: transparent;
+  height: 2px;
+  left: 265px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 374px;
+  width: 301px;
+}
+
+.home .artboard-2-1-acGtbQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 300px;
+  left: 293px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 39px;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.home .artboard-2-1-acGtbQ:hover {
+  transform: scale(1.1);
+}
+
+.home .image-acGtbQ {
+  background-color: transparent;
+  height: 45px;
+  left: 286px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 414px;
+  width: 251px;
+}
+
+.home .icon-star-xl4bh6 {
+  background-color: transparent;
+  height: 48px;
+  left: 102px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2843px;
+  width: 60px;
+}
+
+.home .image-removebg-preview-8-7-xl4bh6 {
+  background-color: transparent;
+  height: 53px;
+  left: 972px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2792px;
+  width: 53px;
+}
+
+.home .icon-star-efo9xP {
+  background-color: transparent;
+  height: 50px;
+  left: 132px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2533px;
+  width: 50px;
+}
+
+.home .icon-star-u6dkWh {
+  background-color: transparent;
+  height: 30px;
+  left: 798px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2020px;
+  width: 30px;
+}
+
+.home .icon-star-NQoAKi {
+  background-color: transparent;
+  height: 30px;
+  left: 247px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2117px;
+  width: 30px;
+}
+
+.home .icon-star-V3QlES {
+  background-color: transparent;
+  height: 50px;
+  left: 652px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 2968px;
+  width: 50px;
+}
+
+.home .artboard-1-3-xl4bh6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 300px;
+  left: 725px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2261px;
+  transition: all 0.2s ease;
+  width: 240px;
+}
+
+.home .artboard-1-3-xl4bh6:hover {
+  transform: scale(1.1);
+}
